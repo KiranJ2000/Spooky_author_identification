@@ -37,8 +37,8 @@ Was able to do EDA using matplotlib and seaborn. I used many state of the art ED
 ## Model Building
 
 I started of by creating a baseline model which is just a random predictions of the classes, this was followed by creating various machine learning models such as **Logistic Regression**, **Multinomial Naive Bayes**, and **Random Forest** to name a few. 
-Then I created various deep learning models such as **Bi-directional LSTM'S** , and **CNN's**. I played around with different combinations of deep learning models and found interesting results. I finally used **Model Ensembling** by stacking various models together. By stacking up models , each and every member of the ensemble makes a contribution to the final output and individual weaknesses are diluted by the contributions from the other members. For more insights , do check the 'Model_building' notebook.
-Below is a table which compares the accuracy of different models.
+Then I created various deep learning models such as **Bi-directional LSTM'S** , and **CNN's**. I played around with different combinations of deep learning models and found interesting results. I finally used **Model Ensembling** by stacking various models together. By stacking up models , each and every member of the ensemble makes a contribution to the final output and individual weaknesses are diluted by the contributions from the other members. **For more insights , do check the 'Model_building' notebook.
+Below is a table which compares the accuracy of different models**.
 
 
 | Models                                                               | Accuracy     |     
